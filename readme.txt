@@ -1,1 +1,2 @@
-estamos aprendiendo los comandos basicos de git
+estamos aprendiendo el flujo de trabajo
+
